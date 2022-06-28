@@ -24,13 +24,8 @@ Contributions are welcome :)
 You can contact the project authors:
 
 1. Karlygach: @Kjumabekovva (telegram), https://github.com/Jumabekova06
-2. Murat: @murat\_jumashev (telegram), https://github.com/jumasheff Toggle all file notes Toggle all file annotations
+2. Murat: @murat\_jumashev (telegram), https://github.com/jumasheff
 
 
 
-
-
-Table of contents can be found in \[SUMMARY.md]\(SUMMARY.md)
-
-
-
+Table of contents can be found in \[`SUMMARY.md](SUMMARY.md)`
