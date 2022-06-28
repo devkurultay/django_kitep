@@ -28,4 +28,4 @@ You can contact the project authors:
 
 
 
-Table of contents can be found in \[`SUMMARY.md](SUMMARY.md)`
+Table of contents can be found in [SUMMARY.md](SUMMARY.md)
