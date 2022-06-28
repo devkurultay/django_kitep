@@ -1,3 +1,9 @@
+---
+description: >-
+  The book is being written in GitBook. The contents of this README might change
+  in the future since it is used as a book intro.
+---
+
 # Кириш сөз
 
 ## About project
