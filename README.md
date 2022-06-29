@@ -1,7 +1,8 @@
 ---
 description: >-
   The book is being written in GitBook. The contents of this README might change
-  in the future since it is used as a book intro.
+  in the future since it is used as a book intro. We are very grateful that
+  GitBook gave us a Community Plan for free!
 ---
 
 # Кириш сөз
@@ -25,7 +26,5 @@ You can contact the project authors:
 
 1. Karlygach: @Kjumabekovva (telegram), https://github.com/Jumabekova06
 2. Murat: @murat\_jumashev (telegram), https://github.com/jumasheff
-
-
 
 Table of contents can be found in [SUMMARY.md](SUMMARY.md)
