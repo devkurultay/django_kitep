@@ -2,8 +2,8 @@
 
 * [Кириш сөз](README.md)
 * [Жалпы түшүнүк](zhalpy-t-sh-n-k/README.md)
-  * [Виртуалдык чөйрө түзүү](zhalpy-t-sh-n-k/virtualdyk-ch-ir-t-z.md)
-  * [Көз карандылыктарды орнотуу](zhalpy-t-sh-n-k/k-z-karandylyktardy-ornotuu.md)
+  * [Виртуалдык чөйрө түзүү](suramzhyloo-dolbooru/virtualdyk-ch-ir-t-z.md)
+  * [Көз карандылыктарды орнотуу](suramzhyloo-dolbooru/k-z-karandylyktardy-ornotuu.md)
 * [Сурамжылоо долбоору](suramzhyloo-dolbooru/README.md)
   * [Долбоорду түзүү](suramzhyloo-dolbooru/dolboordu-t-z.md)
   * [Биринчи колдонмону түзүү](suramzhyloo-dolbooru/birinchi-koldonmonu-t-z.md)
